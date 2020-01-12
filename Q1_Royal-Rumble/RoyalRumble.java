@@ -84,7 +84,7 @@ public class RoyalRumble {
 			return ordinal;
 		}
 
-		public void setOrdinal(String age) {
+		public void setOrdinal(String ordinal) {
 			this.ordinal = ordinal;
 		}
 

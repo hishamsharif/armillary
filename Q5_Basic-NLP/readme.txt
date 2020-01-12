@@ -8,8 +8,8 @@ input                               https://drive.google.com/a/taiger.com/file/d
 
 Instructions
 --------------------
-1) Execute entity_recognizer.py
-2) The results displayed as markup to the input text with recognized "Person","Location", and "Organization" entities
+1) Open command line, execute entity_recognizer.py 
+2) The results displayed as input text with markup of recognized "Person","Location", and "Organization" entities
 
 
 Prerequisites
